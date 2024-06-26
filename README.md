@@ -1,4 +1,4 @@
-# Tiler
+# Restaurant analytical tool - Tiler
 
 **Contexto**
 
