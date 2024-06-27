@@ -27,3 +27,6 @@ Um dashboard em Power BI que oferece uma visão abrangente do desempenho de vend
 
 
 ![image](https://github.com/brysley/Final-Project-bootcamp/assets/113534044/84c1e867-da14-4552-9c36-06e1fdcff083)
+
+
+**Obrigada por chegar até aqui!**
