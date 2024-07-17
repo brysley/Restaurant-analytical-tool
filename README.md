@@ -29,6 +29,8 @@ Um dashboard em Power BI que oferece uma visão abrangente do desempenho de vend
 ![image](https://github.com/brysley/Final-Project-bootcamp/assets/113534044/84c1e867-da14-4552-9c36-06e1fdcff083)
 
 **Considerações Finais**
+
+
 O projeto de análise de dados para restaurantes demonstra o poder das ferramentas de BI na transformação de dados brutos em insights valiosos. A implementação do dashboard em Power BI fornece uma plataforma robusta para análise contínua, ajudando os gestores a monitorar o desempenho, identificar tendências e tomar decisões estratégicas com confiança. Esse projeto é um passo importante para a digitalização e otimização dos processos operacionais no setor de restaurantes.
 
 
